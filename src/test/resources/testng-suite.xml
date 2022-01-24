@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+	<test verbose="2" name="Default test">
+		<classes>
+			<class name="org.ellab.paru.ParuTest" />
+			<class name="org.ellab.paru.ParuRunnerTest" />
+			<class name="org.ellab.paru.pattern.CharPatternTest" />
+			<class name="org.ellab.paru.pattern.DatePatternTest" />
+			<class name="org.ellab.paru.pattern.PrefixSuffixPatternTest" />
+		</classes>
+	</test> <!-- Default test -->
+</suite> <!-- Default suite -->

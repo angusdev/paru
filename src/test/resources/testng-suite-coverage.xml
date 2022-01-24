@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Coverage suite">
+	<test verbose="2" name="Coverage test">
+		<classes>
+			<class name="org.ellab.paru.CoverageTest" />
+		</classes>
+	</test> <!-- Default test -->
+</suite> <!-- Default suite -->
