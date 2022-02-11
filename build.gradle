@@ -13,6 +13,8 @@ dependencies {
   implementation 'net.lingala.zip4j:zip4j:1.3.2'
   implementation 'com.itextpdf:itextpdf:5.5.10'
   implementation 'org.bouncycastle:bcprov-jdk15on:1.56'
+  // https://mvnrepository.com/artifact/org.eclipse.platform/org.eclipse.swt.cocoa.macosx.x86_64
+  implementation 'org.eclipse.platform:org.eclipse.swt.cocoa.macosx.x86_64:3.118.0'
   
   testImplementation 'org.testng:testng:6.8.8'
 }
